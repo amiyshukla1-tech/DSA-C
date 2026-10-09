@@ -1,0 +1,16 @@
+# Ignore compiled executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore debug files
+*.pdb
+*.ilk
+
+# Ignore common build folders
+build/
+bin/
+Debug/
+Release/
